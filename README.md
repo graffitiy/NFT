@@ -17,7 +17,7 @@ https://baobab.scope.klaytn.com
 
 https://testnets.opensea.io
 
-```javascript`
+```javascript
 1. image를 ipfs에 올린다
 2. metadata JSON파일을 ipfs에 올린다
 3. KIP17 코드를 블록체인에 올린다
